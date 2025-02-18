@@ -69,7 +69,7 @@ async function main() {
 
 
     let finalMessage = document.createElement("div");
-    finalMessage.innerHTML = "Bro, You Cooked....!";
+    finalMessage.innerHTML = "Bro, You are Cooked....!";
     finalMessage.style.fontSize = "2.4em";
     finalMessage.style.marginTop = "30px";
     finalMessage.style.fontWeight = "bold";
