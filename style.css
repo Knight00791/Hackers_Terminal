@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: limegreen;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: linear-gradient(to right, #003622, black);
+}
