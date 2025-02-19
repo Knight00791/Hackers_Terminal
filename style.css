@@ -10,3 +10,9 @@ body {
     margin: 0;
     background: linear-gradient(to right, #003622, black);
 }
+
+@media (max-width: 600px) {
+    body {
+        font-size: 0.6rem;
+    }
+}
