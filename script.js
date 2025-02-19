@@ -31,7 +31,7 @@ const addItem = async (item) => {
 
 const randomDelay = () => {
     return new Promise((resolve) => {
-        const timeout = 1 + 6 * Math.random();
+        const timeout = 1 + 3 * Math.random();
         setTimeout(() => {
             resolve();
         }, timeout * 1000);
